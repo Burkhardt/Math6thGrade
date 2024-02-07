@@ -27,6 +27,7 @@ namespace Math6thGrade.Tests
 		[InlineData(0, 5, 0)]
 		[InlineData(3, 0, 0)]
 		[InlineData(51, 21, 357)]
+		[InlineData(500,432,54000)]
 		public void LCM_ReturnsCorrectResult(int a, int b, int expectedResult)
 		{
 			var result = Math6.LCM(a, b);
