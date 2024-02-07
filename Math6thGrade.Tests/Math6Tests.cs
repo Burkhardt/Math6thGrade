@@ -13,6 +13,7 @@ namespace Math6thGrade.Tests
 		[InlineData(17, 13, 1)]
 		[InlineData(0, 5, 5)]
 		[InlineData(3, 0, 3)]
+		[InlineData(12, 16, 4)]
 		public void GCF_ReturnsCorrectResult(int a, int b, int expectedResult)
 		{
 			var result = Math6.GCF(a, b);

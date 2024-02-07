@@ -99,3 +99,4 @@
 /Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/obj/Debug/net8.0/Math6thGrade.Tests.pdb
 /Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/obj/Debug/net8.0/Math6thGrade.Tests.genruntimeconfig.cache
 /Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/obj/Debug/net8.0/ref/Math6thGrade.Tests.dll
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/obj/Debug/net8.0/Math6thGrade.Tests.sourcelink.json
