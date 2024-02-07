@@ -16,3 +16,4 @@
 /Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.App/obj/Debug/net8.0/Math6thGrade.App.pdb
 /Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.App/obj/Debug/net8.0/Math6thGrade.App.genruntimeconfig.cache
 /Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.App/obj/Debug/net8.0/ref/Math6thGrade.App.dll
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.App/obj/Debug/net8.0/Math6thGrade.App.sourcelink.json
