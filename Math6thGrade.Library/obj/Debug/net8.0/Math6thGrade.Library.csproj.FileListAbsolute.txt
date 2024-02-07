@@ -1,0 +1,11 @@
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/bin/Debug/net8.0/Math6thGrade.Library.deps.json
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/bin/Debug/net8.0/Math6thGrade.Library.dll
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/bin/Debug/net8.0/Math6thGrade.Library.pdb
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/Math6thGrade.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/Math6thGrade.Library.AssemblyInfoInputs.cache
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/Math6thGrade.Library.AssemblyInfo.cs
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/Math6thGrade.Library.csproj.CoreCompileInputs.cache
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/Math6thGrade.Library.dll
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/refint/Math6thGrade.Library.dll
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/Math6thGrade.Library.pdb
+/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/Debug/net8.0/ref/Math6thGrade.Library.dll

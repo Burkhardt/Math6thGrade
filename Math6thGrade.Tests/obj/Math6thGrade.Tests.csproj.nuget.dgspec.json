@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/Math6thGrade.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/Math6thGrade.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/Math6thGrade.Library.csproj",
+        "projectName": "Math6thGrade.Library",
+        "projectPath": "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/Math6thGrade.Library.csproj",
+        "packagesPath": "/Users/RSB/.nuget/packages/",
+        "outputPath": "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/RSB/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/Math6thGrade.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/Math6thGrade.Tests.csproj",
+        "projectName": "Math6thGrade.Tests",
+        "projectPath": "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/Math6thGrade.Tests.csproj",
+        "packagesPath": "/Users/RSB/.nuget/packages/",
+        "outputPath": "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/RSB/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/Math6thGrade.Library.csproj": {
+                "projectPath": "/Users/RSB/Project2024/Csharp/Math6thGrade/Math6thGrade.Library/Math6thGrade.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
